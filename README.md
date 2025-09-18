@@ -20,6 +20,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 A modern, responsive task management web application built with **Next.js 15** and **TypeScript**, featuring intelligent task categorization and priority suggestions.
 
+<img width="1886" height="822" alt="image" src="https://github.com/user-attachments/assets/0bf89098-9051-4b33-9d2b-887d221b8c85" />
+
+
 ---
 
 ## 🚀 Overview
